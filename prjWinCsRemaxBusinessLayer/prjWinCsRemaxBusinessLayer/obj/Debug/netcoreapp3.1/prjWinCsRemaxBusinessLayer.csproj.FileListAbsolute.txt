@@ -1,0 +1,10 @@
+E:\Multi-project\prjWinCsRemaxBusinessLayer\prjWinCsRemaxBusinessLayer\bin\Debug\netcoreapp3.1\prjWinCsRemaxBusinessLayer.deps.json
+E:\Multi-project\prjWinCsRemaxBusinessLayer\prjWinCsRemaxBusinessLayer\bin\Debug\netcoreapp3.1\prjWinCsRemaxBusinessLayer.dll
+E:\Multi-project\prjWinCsRemaxBusinessLayer\prjWinCsRemaxBusinessLayer\bin\Debug\netcoreapp3.1\prjWinCsRemaxBusinessLayer.pdb
+E:\Multi-project\prjWinCsRemaxBusinessLayer\prjWinCsRemaxBusinessLayer\obj\Debug\netcoreapp3.1\prjWinCsRemaxBusinessLayer.csproj.AssemblyReference.cache
+E:\Multi-project\prjWinCsRemaxBusinessLayer\prjWinCsRemaxBusinessLayer\obj\Debug\netcoreapp3.1\prjWinCsRemaxBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Multi-project\prjWinCsRemaxBusinessLayer\prjWinCsRemaxBusinessLayer\obj\Debug\netcoreapp3.1\prjWinCsRemaxBusinessLayer.AssemblyInfoInputs.cache
+E:\Multi-project\prjWinCsRemaxBusinessLayer\prjWinCsRemaxBusinessLayer\obj\Debug\netcoreapp3.1\prjWinCsRemaxBusinessLayer.AssemblyInfo.cs
+E:\Multi-project\prjWinCsRemaxBusinessLayer\prjWinCsRemaxBusinessLayer\obj\Debug\netcoreapp3.1\prjWinCsRemaxBusinessLayer.csproj.CoreCompileInputs.cache
+E:\Multi-project\prjWinCsRemaxBusinessLayer\prjWinCsRemaxBusinessLayer\obj\Debug\netcoreapp3.1\prjWinCsRemaxBusinessLayer.dll
+E:\Multi-project\prjWinCsRemaxBusinessLayer\prjWinCsRemaxBusinessLayer\obj\Debug\netcoreapp3.1\prjWinCsRemaxBusinessLayer.pdb

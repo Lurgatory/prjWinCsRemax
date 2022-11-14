@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="prjWinCsRemaxBusinessLayer.clsAdmin">
+    <Position X="8.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEUAQQAAAAAAgAEAAAAAAgAAAA=</HashCode>
+      <FileName>clsAdmin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjWinCsRemaxBusinessLayer.clsEmployee">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAApAEAAABQAAAAAAQAGAAAAAAAAAAA=</HashCode>
+      <FileName>clsEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjWinCsRemaxBusinessLayer.clsAgent">
+    <Position X="13" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAQAAQAAAAAAAAEAAIAAAgAAAA=</HashCode>
+      <FileName>clsAgent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjWinCsRemaxBusinessLayer.clsCompany">
+    <Position X="21.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAQAAAAAAAAAAAAEAAAAQAAAIAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>clsCompany.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjWinCsRemaxBusinessLayer.clsHouse">
+    <Position X="23.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAgAAgAAEAAAEAEABACAAAAABAAAIA=</HashCode>
+      <FileName>clsHouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjWinCsRemaxBusinessLayer.clsSeller">
+    <Position X="15" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>clsSeller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjWinCsRemaxBusinessLayer.clsClient">
+    <Position X="17" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgCAAAAAAAAEAAABQAAAAAAEEGAEAAAAAAAAA=</HashCode>
+      <FileName>clsClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjWinCsRemaxBusinessLayer.clsBuyer">
+    <Position X="19.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsBuyer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjWinCsRemaxBusinessLayer.clsListCompany">
+    <Position X="8.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAQAAAAEIAAAAAAAQkAAAAAA=</HashCode>
+      <FileName>clsListCompany.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjWinCsRemaxBusinessLayer.clsListHouse">
+    <Position X="10.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAQAAAAEIAAAAAAAQkAAAAAA=</HashCode>
+      <FileName>clsListHouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjWinCsRemaxBusinessLayer.clsListSeller">
+    <Position X="12" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAQAAAAEIAAAAAAAQkAAAAAA=</HashCode>
+      <FileName>clsListSeller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjWinCsRemaxBusinessLayer.clsListBuyer">
+    <Position X="13.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAQAAAAEIAAAAAAAQkAAAAAA=</HashCode>
+      <FileName>clsListBuyer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjWinCsRemaxBusinessLayer.clsListAgent">
+    <Position X="8.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAQAAAAEIAAAAAAAQkAAAAAA=</HashCode>
+      <FileName>clsListAgent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjWinCsRemaxBusinessLayer.clsListAdmin">
+    <Position X="10.25" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAQAAAAEIAAAAAAAQkAAAAAA=</HashCode>
+      <FileName>clsListAdmin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjWinCsRemaxBusinessLayer.clsListEmployee">
+    <Position X="12" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAQAAAAEIAAAAAAAQkAAAAAA=</HashCode>
+      <FileName>clsListEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prjWinCsRemaxBusinessLayer.clsListClient">
+    <Position X="13.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAQAAAAEIAAAAAAAQkAAAAAA=</HashCode>
+      <FileName>clsListClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
